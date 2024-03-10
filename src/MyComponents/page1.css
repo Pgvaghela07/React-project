@@ -1,0 +1,100 @@
+.page1 {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.carousel-item {
+    position: relative;
+    width: 100%;
+}
+
+.carousel-item .bg-details1 {
+    width: 30%;
+    color: white;
+    position: absolute;
+    top: 40%;
+    right: 12%;
+}
+
+.carousel-item .bg-details1 h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.carousel-item .bg-details1 p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.carousel-item .bg-details1 button {
+    width: 50%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.bg-details1 button:hover {
+    background-color: rgb(171, 171, 171);
+}
+
+.carousel-item .bg-details2 {
+    width: 40%;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+.carousel-item .bg-details2 h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.carousel-item .bg-details2 p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.carousel-item .bg-details2 button {
+    width: 50%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px 0;
+}
+
+.bg-details2 button:hover {
+    background-color: rgb(171, 171, 171);
+}
+
+.carousel-item .bg-details3 {
+    width: 40%;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+.carousel-item .bg-details3 h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.carousel-item .bg-details3 p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.carousel-item .bg-details3 button {
+    width: 50%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px 0;
+}
+
+.bg-details3 button:hover {
+    background-color: rgb(171, 171, 171);
+}

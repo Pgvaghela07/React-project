@@ -1,0 +1,81 @@
+.page5 {
+    width: 100%;
+    height: 650px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(18, 18, 18);
+}
+
+.L-box1{
+    width: 30%;
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* color: white; */
+    background-color: white;  
+}
+
+.page5 .-L-box1 h1 {
+    font-weight: 600;
+}
+
+.page5 .L-box1 button {
+    width: 40%;
+    padding: 8px;
+    border-radius: 20px;
+}
+.R-box1{
+    width: 30%;
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* color: white; */
+    background-color: white;  
+}
+.L-box2{
+    width: 30%;
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* color: white; */
+    background-color: white;  
+}
+.L-box2 img{
+    height: 100%;
+    width: 100%;
+    padding: 0 10px;
+    border-radius: 20px;
+}
+.R-box2{
+    width: 30%;
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* color: white; */
+    background-color: white;  
+}
+.R-box2 h1{
+    font-weight: 600;
+}
+.page5 .R-box2 button {
+    width: 40%;
+    padding: 8px;
+    border-radius: 20px;
+}
+.page5
+.R-box1 img {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
