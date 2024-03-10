@@ -5,7 +5,7 @@ const navbar = () => {
         <>
             <nav className="nav">
                 <div className="logo">
-                    <img src="/images/logo/Coca-Cola-logo.png" alt="" />
+                    <img src="./images/logo/Coca-Cola-logo.png" alt="" />
                 </div>
                 <div className="nav-details">
                     <ul>

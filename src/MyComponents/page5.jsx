@@ -15,12 +15,12 @@ const page5 = () => {
                         <button>Learn More</button>
                     </div>
                     <div className="R-box1">
-                        <img src="/images/product/p7.webp" alt="" />
+                        <img src="./images/product/p7.webp" alt="" />
                     </div>
                 </section>
                 <section>
                     <div className="L-box2">
-                        <img src="/images/product/p8.webp" alt="" />
+                        <img src="./images/product/p8.webp" alt="" />
                     </div>
                     <div className="R-box2">
                         <h1>It's quench time.</h1>

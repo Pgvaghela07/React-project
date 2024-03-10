@@ -5,7 +5,7 @@ const page3 = () => {
         <>
             <div className="page3">
                 <div className="left">
-                    <img src="/images/custom-bottles.webp" alt="" />
+                    <img src="./images/custom-bottles.webp" alt="" />
                 </div>
                 <div className="right">
                     <h1>Custom bottles make the perfect party favor.</h1>

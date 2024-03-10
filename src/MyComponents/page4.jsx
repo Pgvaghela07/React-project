@@ -8,24 +8,24 @@ const page4 = () => {
                 <div className="brand">
                     <section>
                         <div className="box">
-                            <img src="/images/brand/b1.webp" alt="" />
+                            <img src="./images/brand/b1.webp" alt="" />
                         </div>
                         <div className="box">
-                            <img src="/images/brand/b2.webp" alt="" />
+                            <img src="./images/brand/b2.webp" alt="" />
                         </div>
                         <div className="box">
-                            <img src="/images/brand/b3.webp" alt="" />
+                            <img src="./images/brand/b3.webp" alt="" />
                         </div>
                     </section>
                     <section>
                         <div className="box">
-                            <img src="/images/brand/b4.webp" alt="" />
+                            <img src="./images/brand/b4.webp" alt="" />
                         </div>
                         <div className="box">
-                            <img src="/images/brand/b5.webp" alt="" />
+                            <img src="./images/brand/b5.webp" alt="" />
                         </div>
                         <div className="box">
-                            <img src="/images/brand/b6.webp" alt="" />
+                            <img src="./images/brand/b6.webp" alt="" />
                         </div>
                     </section>
                 </div>

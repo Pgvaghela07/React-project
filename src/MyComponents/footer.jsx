@@ -6,7 +6,7 @@ const footer = () => {
     <div className="footer">
     <div className="container">
       <section id="f-logo">
-        <img src="/images/logo/the-coca-cola-company-logo-white.svg" alt=""/>
+        <img src="./images/logo/the-coca-cola-company-logo-white.svg" alt=""/>
         <div className="location">
           <i className="fa-solid fa-location-dot"></i>
           <span>India | English</span>

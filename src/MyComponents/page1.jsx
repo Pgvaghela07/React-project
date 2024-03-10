@@ -15,14 +15,14 @@ const page1 = () => {
                                 </p>
                                 <button>Learn More</button>
                             </div>
-                            <img src="/images/bg1.webp" className="d-block w-100" alt="..." />
+                            <img src="./images/bg1.webp" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item" data-bs-interval="3000">
                             <div className="bg-details2">
                                 <h1>Play everyday for your chance at thousands of prizes.</h1>
                                 <button>Learn More</button>
                             </div>
-                            <img src="/images/bg2.webp" className="d-block w-100" alt="..." />
+                            <img src="./images/bg2.webp" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item" data-bs-interval="3000">
                             <div className="bg-details3">
@@ -30,7 +30,7 @@ const page1 = () => {
                                 <p>An unexpected burst of raspberry and spiced flavors.</p>
                                 <button>Learn More</button>
                             </div>
-                            <img src="/images/bg3.webp" className="d-block w-100" alt="..." />
+                            <img src="./images/bg3.webp" className="d-block w-100" alt="..." />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
